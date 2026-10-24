@@ -1,6 +1,7 @@
 # Car vs Truck Classification using CNN
 
 Dự án xây dựng mô hình học sâu để **phân loại ảnh phương tiện thành hai lớp: `car` (ô tô) và `truck` (xe tải)**. Mô hình được xây dựng bằng TensorFlow/Keras, xử lý ảnh bằng OpenCV và có thể đánh giá ảnh đầu vào bằng chương trình Python.
+Datasets: https://www.kaggle.com/datasets/ryanholbrook/car-or-truck
 
 ## ✨ Tính năng
 
